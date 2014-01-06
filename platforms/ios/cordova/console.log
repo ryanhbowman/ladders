@@ -249,3 +249,17 @@
 2014-01-06 20:00:50.351 Test[66277:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/A5EE52D2-0CAA-4959-944B-B20C505202EB/Test.app/www/test.html
 2014-01-06 20:00:52.080 Test[66277:80b] Resetting plugins due to page load.
 2014-01-06 20:00:52.093 Test[66277:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/A5EE52D2-0CAA-4959-944B-B20C505202EB/Test.app/www/index.html
+2014-01-06 20:17:55.222 Test[67209:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-06 20:17:55.228 Test[67209:80b] Unlimited access to network resources
+2014-01-06 20:17:55.251 Test[67209:80b] [CDVTimer][statusbar] 6.591022ms
+2014-01-06 20:17:55.251 Test[67209:80b] [CDVTimer][TotalPluginStartup] 6.984949ms
+2014-01-06 20:17:55.344 Test[67209:80b] Resetting plugins due to page load.
+2014-01-06 20:17:55.528 Test[67209:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/A5EE52D2-0CAA-4959-944B-B20C505202EB/Test.app/www/index.html
+2014-01-06 20:17:57.468 Test[67209:80b] Resetting plugins due to page load.
+2014-01-06 20:17:57.494 Test[67209:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/A5EE52D2-0CAA-4959-944B-B20C505202EB/Test.app/www/scanbook.html
+2014-01-06 20:17:59.552 Test[67209:80b] Camera.getPicture: source type 1 not available.
+2014-01-06 20:18:02.142 Test[67209:80b] THREAD WARNING: ['Camera'] took '2592.256104' ms. Plugin should use a background thread.
+2014-01-06 20:18:04.473 Test[67209:80b] Camera.getPicture: source type 1 not available.
+2014-01-06 20:18:06.085 Test[67209:80b] THREAD WARNING: ['Camera'] took '1612.114990' ms. Plugin should use a background thread.
+2014-01-06 20:18:06.839 Test[67209:80b] THREAD WARNING: ['Camera'] took '40.100098' ms. Plugin should use a background thread.
+2014-01-06 20:18:13.114 Test[67209:80b] THREAD WARNING: ['Camera'] took '18.592041' ms. Plugin should use a background thread.
