@@ -49,6 +49,10 @@ header a, header a:active, header a:visited {
     font-size: .75em;
 }
 
+.left {
+    float: left;
+}
+
 .main-window {
     padding: .5em;
 }

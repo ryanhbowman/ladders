@@ -313,3 +313,55 @@
 2014-01-06 20:40:11.962 Ladders[70028:80b] [CDVTimer][TotalPluginStartup] 8.036017ms
 2014-01-06 20:40:12.070 Ladders[70028:80b] Resetting plugins due to page load.
 2014-01-06 20:40:12.209 Ladders[70028:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/index.html
+2014-01-06 20:40:31.550 Ladders[70028:80b] Resetting plugins due to page load.
+2014-01-06 20:40:31.563 Ladders[70028:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/yourlibrary.html
+2014-01-06 20:40:32.910 Ladders[70028:80b] Resetting plugins due to page load.
+2014-01-06 20:40:32.924 Ladders[70028:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/index.html
+2014-01-06 20:40:34.001 Ladders[70028:80b] Resetting plugins due to page load.
+2014-01-06 20:40:34.017 Ladders[70028:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/scanbook.html
+2014-01-06 20:40:39.432 Ladders[70028:80b] Resetting plugins due to page load.
+2014-01-06 20:40:39.446 Ladders[70028:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/index.html
+2014-01-06 20:40:40.979 Ladders[70028:80b] Resetting plugins due to page load.
+2014-01-06 20:40:40.994 Ladders[70028:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/addbook.html
+2014-01-06 20:40:43.725 Ladders[70028:80b] Resetting plugins due to page load.
+2014-01-06 20:40:43.736 Ladders[70028:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/index.html
+2014-01-06 20:44:23.438 Ladders[70527:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-06 20:44:23.447 Ladders[70527:80b] Unlimited access to network resources
+2014-01-06 20:44:23.483 Ladders[70527:80b] [CDVTimer][statusbar] 8.567989ms
+2014-01-06 20:44:23.483 Ladders[70527:80b] [CDVTimer][TotalPluginStartup] 9.082019ms
+2014-01-06 20:44:23.605 Ladders[70527:80b] Resetting plugins due to page load.
+2014-01-06 20:44:23.761 Ladders[70527:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/index.html
+2014-01-06 20:44:25.507 Ladders[70527:80b] Resetting plugins due to page load.
+2014-01-06 20:44:25.521 Ladders[70527:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/book.html
+2014-01-06 20:44:29.948 Ladders[70527:80b] Resetting plugins due to page load.
+2014-01-06 20:44:29.962 Ladders[70527:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/index.html
+2014-01-06 20:46:52.772 Ladders[70986:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-06 20:46:52.781 Ladders[70986:80b] Unlimited access to network resources
+2014-01-06 20:46:52.813 Ladders[70986:80b] [CDVTimer][statusbar] 8.333981ms
+2014-01-06 20:46:52.813 Ladders[70986:80b] [CDVTimer][TotalPluginStartup] 8.812010ms
+2014-01-06 20:46:52.907 Ladders[70986:80b] Resetting plugins due to page load.
+2014-01-06 20:46:53.052 Ladders[70986:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/index.html
+2014-01-06 20:46:56.229 Ladders[70986:80b] Resetting plugins due to page load.
+2014-01-06 20:46:56.281 Ladders[70986:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/book.html
+2014-01-06 20:47:17.031 Ladders[71422:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-06 20:47:17.037 Ladders[71422:80b] Unlimited access to network resources
+2014-01-06 20:47:17.065 Ladders[71422:80b] [CDVTimer][statusbar] 6.585002ms
+2014-01-06 20:47:17.066 Ladders[71422:80b] [CDVTimer][TotalPluginStartup] 7.046998ms
+2014-01-06 20:47:17.161 Ladders[71422:80b] Resetting plugins due to page load.
+2014-01-06 20:47:17.255 Ladders[71422:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/index.html
+2014-01-06 20:53:52.927 Ladders[71422:80b] Resetting plugins due to page load.
+2014-01-06 20:53:52.959 Ladders[71422:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/book.html
+2014-01-06 20:53:55.485 Ladders[71422:80b] Resetting plugins due to page load.
+2014-01-06 20:53:55.499 Ladders[71422:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/index.html
+2014-01-06 20:53:57.165 Ladders[71422:80b] Resetting plugins due to page load.
+2014-01-06 20:53:57.178 Ladders[71422:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/yourlibrary.html
+2014-01-06 20:53:58.256 Ladders[71422:80b] Resetting plugins due to page load.
+2014-01-06 20:53:58.268 Ladders[71422:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/index.html
+2014-01-06 20:53:59.379 Ladders[71422:80b] Resetting plugins due to page load.
+2014-01-06 20:53:59.395 Ladders[71422:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/scanbook.html
+2014-01-06 20:54:00.949 Ladders[71422:80b] Resetting plugins due to page load.
+2014-01-06 20:54:00.962 Ladders[71422:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/index.html
+2014-01-06 20:54:02.700 Ladders[71422:80b] Resetting plugins due to page load.
+2014-01-06 20:54:02.712 Ladders[71422:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/addbook.html
+2014-01-06 20:54:03.704 Ladders[71422:80b] Resetting plugins due to page load.
+2014-01-06 20:54:03.717 Ladders[71422:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F778214E-8E8A-4D79-8374-83D57BB38C4F/Ladders.app/www/index.html
