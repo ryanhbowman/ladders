@@ -211,3 +211,41 @@
 2014-01-06 18:30:11.803 Test[63385:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/A5EE52D2-0CAA-4959-944B-B20C505202EB/Test.app/www/index.html
 2014-01-06 18:30:12.711 Test[63385:80b] Resetting plugins due to page load.
 2014-01-06 18:30:12.736 Test[63385:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/A5EE52D2-0CAA-4959-944B-B20C505202EB/Test.app/www/test.html
+2014-01-06 19:31:15.314 Test[64205:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-06 19:31:15.324 Test[64205:80b] Unlimited access to network resources
+2014-01-06 19:31:15.363 Test[64205:80b] [CDVTimer][statusbar] 9.613037ms
+2014-01-06 19:31:15.363 Test[64205:80b] [CDVTimer][TotalPluginStartup] 10.012031ms
+2014-01-06 19:31:15.483 Test[64205:80b] Resetting plugins due to page load.
+2014-01-06 19:31:15.603 Test[64205:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/A5EE52D2-0CAA-4959-944B-B20C505202EB/Test.app/www/index.html
+2014-01-06 19:43:55.049 Test[64706:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-06 19:43:55.076 Test[64706:80b] Unlimited access to network resources
+2014-01-06 19:43:55.304 Test[64706:80b] [CDVTimer][statusbar] 43.062985ms
+2014-01-06 19:43:55.304 Test[64706:80b] [CDVTimer][TotalPluginStartup] 43.452978ms
+2014-01-06 19:43:55.428 Test[64706:80b] Resetting plugins due to page load.
+2014-01-06 19:43:55.597 Test[64706:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/A5EE52D2-0CAA-4959-944B-B20C505202EB/Test.app/www/index.html
+2014-01-06 19:48:48.973 Test[65151:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-06 19:48:48.981 Test[65151:80b] Unlimited access to network resources
+2014-01-06 19:48:49.011 Test[65151:80b] [CDVTimer][statusbar] 7.768035ms
+2014-01-06 19:48:49.011 Test[65151:80b] [CDVTimer][TotalPluginStartup] 8.255005ms
+2014-01-06 19:48:49.108 Test[65151:80b] Resetting plugins due to page load.
+2014-01-06 19:48:49.252 Test[65151:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/A5EE52D2-0CAA-4959-944B-B20C505202EB/Test.app/www/index.html
+2014-01-06 19:49:16.785 Test[65546:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-06 19:49:16.791 Test[65546:80b] Unlimited access to network resources
+2014-01-06 19:49:16.815 Test[65546:80b] [CDVTimer][statusbar] 6.603003ms
+2014-01-06 19:49:16.816 Test[65546:80b] [CDVTimer][TotalPluginStartup] 7.050037ms
+2014-01-06 19:49:16.907 Test[65546:80b] Resetting plugins due to page load.
+2014-01-06 19:49:17.002 Test[65546:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/A5EE52D2-0CAA-4959-944B-B20C505202EB/Test.app/www/index.html
+2014-01-06 19:50:02.425 Test[66277:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-06 19:50:02.433 Test[66277:80b] Unlimited access to network resources
+2014-01-06 19:50:02.458 Test[66277:80b] [CDVTimer][statusbar] 6.926000ms
+2014-01-06 19:50:02.458 Test[66277:80b] [CDVTimer][TotalPluginStartup] 7.353961ms
+2014-01-06 19:50:02.553 Test[66277:80b] Resetting plugins due to page load.
+2014-01-06 19:50:02.646 Test[66277:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/A5EE52D2-0CAA-4959-944B-B20C505202EB/Test.app/www/index.html
+2014-01-06 19:52:52.170 Test[66277:80b] Resetting plugins due to page load.
+2014-01-06 19:52:52.186 Test[66277:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/A5EE52D2-0CAA-4959-944B-B20C505202EB/Test.app/www/test.html
+2014-01-06 19:52:54.530 Test[66277:80b] Resetting plugins due to page load.
+2014-01-06 19:52:54.544 Test[66277:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/A5EE52D2-0CAA-4959-944B-B20C505202EB/Test.app/www/index.html
+2014-01-06 20:00:50.333 Test[66277:80b] Resetting plugins due to page load.
+2014-01-06 20:00:50.351 Test[66277:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/A5EE52D2-0CAA-4959-944B-B20C505202EB/Test.app/www/test.html
+2014-01-06 20:00:52.080 Test[66277:80b] Resetting plugins due to page load.
+2014-01-06 20:00:52.093 Test[66277:80b] Finished load of: file:///Users/ryanbowman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/A5EE52D2-0CAA-4959-944B-B20C505202EB/Test.app/www/index.html

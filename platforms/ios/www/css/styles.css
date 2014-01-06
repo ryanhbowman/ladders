@@ -15,7 +15,7 @@ body {
 }
 
 header {
-    background: green;
+    background: #537c56;
     padding: 2em .5em .5em ;
     color: white;
 }
@@ -26,29 +26,40 @@ header h1 {
     font-size: 1em
 }
 
+header .left {
+    float: left;
+    width: 20%;
+}
+
+header .center {
+    float: left;
+    width: 60%;
+    text-align: center;
+}
+
+header .right {
+    float: left;
+    width: 20%;
+    text-align: right;
+}
+
 header a, header a:active, header a:visited {
     color: white;
     text-decoration: none;
     font-size: .75em;
 }
 
-.left {
-    float: left;
-}
-
-.right {
-    float: right;
-}
-
-.center {
-    text-align: center;
-}
-
 .main-window {
     padding: .5em;
 }
 
-
+.clearfix:after { 
+   content: "."; 
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both;
+}
 
 .button {
 	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
