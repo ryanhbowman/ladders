@@ -3,7 +3,9 @@
   <script src="cordova.js"></script>
   <link rel="stylesheet" type="text/css" href="css/styles.css">
   <meta name="apple-mobile-web-app-status-bar-style" content="white" /> 
-</head>
+
+
+  </head>
 <body>
 
   <!-- <div class='header'><h1>Homee</h1></div>
@@ -23,55 +25,22 @@
   </script-->
   <header class="clearfix">
     <div class="left">
-      &nbsp;
+      <a href="index.html">< Back</a>
     </div>
     <div class="center"><h1>Ladders</h1></div>
     <div class="right">
-      &nbsp;
     </div>
   </header>
 
   <div class="main-window">
+
+    <button onclick="clickScan();">Scan ISBN</button> <br>
     <div>
-      List 5 most recent titles
-      <ul>
-        <li>
-          <strong>Title</strong>
-          <em>by Author Name</em>
-        </li>
-        <li>
-          <strong>Title</strong>
-          <em>by Author Name</em>
-        </li>
-        <li>
-          <strong>Title</strong>
-          <em>by Author Name</em>
-        </li>
-        <li>
-          <strong>Title</strong>
-          <em>by Author Name</em>
-        </li>
-        <li>
-          <strong>Title</strong>
-          <em>by Author Name</em>
-        </li>
-      </ul>
-    </div>
-    <div>
-      <input type="search" placeholder="Search">
+      <input type="search" placeholder="Search Amazon">
       <input type="submit">
     </div>
-    <div>
-      <a href="addbook.html">Add a Book</a>
-    </div>
-    <div>
-      <a href="scanbook.html">Scan a Book</a>
-    </div>
-    <div>
-      <a href="yourlibrary.html">Your Library</a>
-    </div>
-    <!-- <a href="test.html">Test links</a>
-    <a href="#" onclick="showAlert(); return false;">Show Alert</a> -->
+    <img style="display:none;width:60px;height:60px;" id="smallImage" src="" />
+    <img style="display:none;" id="largeImage" src="" />
   </div>
   
   <footer>
