@@ -16,28 +16,50 @@ body {
 
 header {
     background: green;
-    padding: 1.5em 0 .5em ;
+    padding: 2em .5em .5em ;
     color: white;
+}
+
+header h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 1em
+}
+
+header .left {
+    float: left;
+    width: 20%;
+}
+
+header .center {
+    float: left;
+    width: 60%;
+    text-align: center;
+}
+
+header .right {
+    float: left;
+    width: 20%;
+    text-align: right;
 }
 
 header a, header a:active, header a:visited {
     color: white;
-    text-decoration: none
-}
-
-.left {
-    float: left;
-}
-
-.center {
-    text-align: center;
+    text-decoration: none;
+    font-size: .75em;
 }
 
 .main-window {
     padding: .5em;
 }
 
-
+.clearfix:after { 
+   content: "."; 
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both;
+}
 
 .button {
 	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;

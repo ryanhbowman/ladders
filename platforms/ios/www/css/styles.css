@@ -16,8 +16,28 @@ body {
 
 header {
     background: green;
-    padding: 1.5em 0 .5em ;
+    padding: 2em .5em .5em ;
     color: white;
+}
+
+header h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 1em
+}
+
+header a, header a:active, header a:visited {
+    color: white;
+    text-decoration: none;
+    font-size: .75em;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
 }
 
 .center {
