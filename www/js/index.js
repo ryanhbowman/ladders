@@ -76,3 +76,4 @@ var app = {
 };
 
 app.initialize();
+StatusBar.styleLightContent();

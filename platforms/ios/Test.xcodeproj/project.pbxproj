@@ -43,6 +43,7 @@
 		839E5318E9B642C3BCFEBA0E /* CDVNotification.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F1320B916C6A46278C9BDDC2 /* CDVNotification.bundle */; };
 		00129850A2564FD781ECBD89 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A0B9A59A3B23478F8E261EC5 /* AudioToolbox.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		6F0D1C3C47974DD086312945 /* CDVVibration.m in Sources */ = {isa = PBXBuildFile; fileRef = 15ADDE0FF0F14FF1B36243E6 /* CDVVibration.m */; };
+		AC940CB2BA6746F9B51B7107 /* CDVStatusBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 66B3AEC28FE24F9D995DFDEB /* CDVStatusBar.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -110,6 +111,8 @@
 		A0B9A59A3B23478F8E261EC5 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "AudioToolbox.framework"; path = "System/Library/Frameworks/AudioToolbox.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
 		15ADDE0FF0F14FF1B36243E6 /* CDVVibration.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVVibration.m"; path = "org.apache.cordova.vibration/CDVVibration.m"; sourceTree = "<group>"; fileEncoding = 4; };
 		E92BF566EC464E9E9BEF0581 /* CDVVibration.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVVibration.h"; path = "org.apache.cordova.vibration/CDVVibration.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		66B3AEC28FE24F9D995DFDEB /* CDVStatusBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVStatusBar.m"; path = "org.apache.cordova.statusbar/CDVStatusBar.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		B89E271FD38D4BE5B6AE1A34 /* CDVStatusBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVStatusBar.h"; path = "org.apache.cordova.statusbar/CDVStatusBar.h"; sourceTree = "<group>"; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -235,6 +238,8 @@
 				3C38604E366040AA8F4D8457 /* CDVNotification.h */,
 				15ADDE0FF0F14FF1B36243E6 /* CDVVibration.m */,
 				E92BF566EC464E9E9BEF0581 /* CDVVibration.h */,
+				66B3AEC28FE24F9D995DFDEB /* CDVStatusBar.m */,
+				B89E271FD38D4BE5B6AE1A34 /* CDVStatusBar.h */,
 			);
 			name = Plugins;
 			path = "Test/Plugins";
@@ -423,6 +428,7 @@
 				302D95F114D2391D003F00A1 /* MainViewController.m in Sources */,
 				CAAF55BECA87436EB608FB5D /* CDVNotification.m in Sources */,
 				6F0D1C3C47974DD086312945 /* CDVVibration.m in Sources */,
+				AC940CB2BA6746F9B51B7107 /* CDVStatusBar.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
